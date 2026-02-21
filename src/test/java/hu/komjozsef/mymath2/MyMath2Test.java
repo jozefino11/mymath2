@@ -12,6 +12,6 @@ public void testAddPosivite() {
 
 @Test
 public void testAddNegative() {
-	assertEquals(-6, MyMath2.myAdd(-3,-2));
+	assertEquals(-5, MyMath2.myAdd(-3,-2));
 }
 }
